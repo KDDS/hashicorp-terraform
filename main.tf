@@ -1,4 +1,5 @@
 terraform {
+  # hello world
   required_version = ">= 0.12.0"
 }
 
